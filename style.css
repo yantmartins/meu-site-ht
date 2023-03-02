@@ -1,0 +1,22 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+    text-align: center;
+
+}
+
+header {
+    height: 500px;
+    background-image: url(bg6.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.titulo {
+    color: #f1f1f1;
+    -webkit-text-stroke: 1px #0c0c0c;
+    text-shadow: 1px #292828;
+}
